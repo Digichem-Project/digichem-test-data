@@ -1,0 +1,1 @@
+[Digichem Test Data](https://github.com/Digichem-Project/digichem-test-data) © 2024 by [Digichem](https://github.com/Digichem-Project/) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
